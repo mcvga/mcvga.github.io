@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mcvga.github.io/qdD/sitemap.qdD.gz
